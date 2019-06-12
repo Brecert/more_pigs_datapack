@@ -1,0 +1,1 @@
+execute as @e[type=pig,nbt=!{Age:0}] run function more_pigs:block/as_pig
